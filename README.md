@@ -1,1 +1,0 @@
-# mlb-hackathon
